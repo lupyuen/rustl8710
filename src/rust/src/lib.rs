@@ -1,6 +1,5 @@
 #![no_std]
 #![feature(alloc)]
-#![feature(collections)]
 #![feature(lang_items)]
 
 #[lang = "eh_personality"] extern fn eh_personality() {}

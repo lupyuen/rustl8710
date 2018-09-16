@@ -5,7 +5,7 @@ authors = ["polyfractal <zach@zacharytong.com>"]
 
 [dependencies]
 # New version that fixes compilation:
-freertos_rs = { git = "https://github.com/hashmismatch/freertos.rs", rev = "7bc71903e96c0bc395aa7473b95d5fb0e5499175" }
+freertos_rs = { git = "https://github.com/hashmismatch/freertos.rs", rev = "f056dcbb357597aa7c8f603b8b7e57c3f7e02a4c" }
 
 # the profile used for `cargo build`
 [profile.dev]
